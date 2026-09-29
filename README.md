@@ -1,4 +1,4 @@
-# focus-mode 🔒
+# brain-jail 🔒
  
 a mac script that locks you into a full pomodoro session and makes it actually hard to get distracted. blocks sites, kills messaging apps, and won't let you quit for 20 minutes min
  
